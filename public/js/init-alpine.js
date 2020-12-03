@@ -1,4 +1,5 @@
 function data() {
+  
   function getThemeFromLocalStorage() {
     // if user already changed the theme, use it
     if (window.localStorage.getItem('dark')) {
@@ -15,6 +16,7 @@ function data() {
   function setThemeToLocalStorage(value) {
     window.localStorage.setItem('dark', value)
   }
+
 
   return {
     dark: getThemeFromLocalStorage(),
