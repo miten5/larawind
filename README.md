@@ -31,6 +31,8 @@ php artisan storage:link
 php artisan serve
 
 ```
+If you like my work [Buy me a coffee](https://www.buymeacoffee.com/miten5)
+
 ### Project made possible thanks to:
 
 - [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html)
